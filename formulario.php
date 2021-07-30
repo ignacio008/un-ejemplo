@@ -8,3 +8,5 @@ echo $nombre."<br>".$apellido;
 
 
 ?>
+
+<h2>NO SE QUE ESCRIBO</h2>
